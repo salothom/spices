@@ -7,6 +7,41 @@
   pointer-events: none;
 }
 
+.headerImage{
+  position: absolute;
+  width: 100%;
+  top: -60px;
+}
+.headerImage img{ 
+  width: 45%;
+}
+.spicyBoys{
+  width: 100%;
+  margin: 15px;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 15px;
+
+
+}
+
+.spiceHead{
+  width: 75%;
+  text-align: left;
+
+}
+.spiceBox{
+  width: 100%;
+  padding:15px;
+  margin: 15px;
+}
+.spiceHalf{
+  width: 25%;
+  text-align: left;
+  /* padding:5px; */
+  float: left;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -14,25 +49,54 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: chocolate;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: whitesmoke;
 }
 
-.App-link {
-  color: #61dafb;
+
+
+
+@media only screen and (max-width: 715px){
+  .spicyBoys{
+    width: 100%;
+    margin: 5px;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-top: 35px;
+  }
+  
+  .spiceHead{
+    width: 100%;
+    text-align: left;
+  
+  }
+  .spiceBox{
+    width: 80%;
+    padding:25px;
+    padding-left: 45px;
+    margin: 0px;
+  }
+  .spiceHalf{
+    width: 100%;
+    text-align: left;
+    float: left;
+  }
+
+
+  .headerImage{
+    position: absolute;
+    width: 100%;
+    top: -10px;
+  }
+  .headerImage img{ 
+    width: 45%;
+  }
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

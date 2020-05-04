@@ -1,0 +1,182 @@
+{
+    
+    "spicy": [
+        {
+            "name": "Basil",
+            "type": "Herb",
+            "have": true
+        },
+        {
+            "name": "Bay Leaves",
+            "type": "Herb",
+            "have": true
+        },
+        {
+            "name": "Cilantro",
+            "type": "Herb",
+            "have": true
+        },
+        {
+            "name": "Dill Weed",
+            "type": "Herb",
+            "have": true
+        },
+        {
+            "name": "Lemon Grass",
+            "type": "Herb",
+            "have": true
+        },
+        {
+            "name": "Oregano",
+            "type": "Herb",
+            "have": true
+        },
+        {
+            "name": "Parsley",
+            "type": "Herb",
+            "have": true
+        },
+        {
+            "name": "Rosemary",
+            "type": "Herb",
+            "have": true
+        },
+        {
+            "name": "Sage",
+            "type": "Herb",
+            "have": true
+        },
+        {
+            "name": "Thyme",
+            "type": "Herb",
+            "have": true
+        },
+        {
+            "name": "Allspice",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Anise Seed",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Black Pepper",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Cardaom",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Cayenne",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Celery Seed",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Chili Powder",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Cinnamon",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Cloves",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Coriander",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Cumin",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Curry Powder",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Garlic Powder",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Ginger Powder",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Lemon Extract",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Mustard Powder",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Nutmeg",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Onion Powder",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Paprika",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Red Pepper Flakes",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Saffron",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Seasame Seed",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Sumac",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Tumeric",
+            "type": "spice",
+            "have": true
+        },
+        {
+            "name": "Vanilla Extract",
+            "type": "spice",
+            "have": true
+        }
+
+    ]
+
+}
